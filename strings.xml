@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">docplusplus</string>
+    <string-array name="planets_array">
+        <item>Punamiya Hospital, Dadar West</item>
+        <item>Global hospital Mumbai, Parel</item>
+        <item>R G Stone Urological Research Institute, Opp Mahavir Hospital Linking Road</item>
+        <item>Arpan Nursing Home and Iccu, Kurla(West)</item>
+        <item>City Hospital and Research Centre, Kurla(West)</item>
+        <item>Puranik Hospital, Malad(W)</item>
+        <item>A-Care Orthopaedic and General Hospital, Mira Road(E)</item>
+        <item>Karuna Nursing Home, Near Kanakia Police Station</item>
+        <item>Hira-Mongi Navneet Hospital, Mulund</item>
+        <item>Ameya Surgical and General Nursing Home, J.B.Nagar</item>
+        <item>Apex Hospitals, Borivali (West)</item>
+        <item>Arihant Heart Clinic, Borivali (West)</item>
+        <item>Bses Mg Hospital (Global Hospital and Research Centre), Andheri (W)</item>
+        <item>Dhanwantry Hospital and Iccu, Mulund(W)</item>
+        <item>Gokul Hospital, Kandivali(E)</item>
+        <item>Kapadia Multispeciality Hospital, Goregaon(W)</item>
+        <item>Kokan Hospital, Kokan Nagar</item>
+    </string-array>
+
+</resources>
