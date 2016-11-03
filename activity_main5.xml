@@ -25,9 +25,10 @@
                 android:layout_below="@+id/textView21">
                 <TextView
                     android:id="@+id/text"
-                    android:layout_width="wrap_content"
+                    android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:text="planets"
+                    android:text="Nearby Hospitals"
+                    android:textSize="17dp"
                     android:layout_alignParentLeft="true"
                     />
 
@@ -39,7 +40,12 @@
                     android:entries="@array/planets_array"
                     android:background="#D3D3D3"
                     xmlns:android="http://schemas.android.com/apk/res/android"></Spinner>
-
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/subbtn"
+    android:text="Submit"
+    />
 
         </LinearLayout>
     </RelativeLayout>
